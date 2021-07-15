@@ -22,3 +22,25 @@ transport, Computer Science and Communications, Chisinau
 ##### **Email:** andrewsiminiuk@gmail.com
 
 ##### **Date of birth:** 29.09.1990
+
+### Skill
+
+- HTML
+- CSS
+- JavaScript
+- React Js
+- Node.js
+- Firebase
+- Material-UI
+- Figma
+- WebStorm, Visual Studio Code
+
+### Languages
+
+1. Russian - C2
+2. English - A1
+
+### Links
+
+https://www.facebook.com/andrewsiminiuk/
+https://github.com/SimAndrew
