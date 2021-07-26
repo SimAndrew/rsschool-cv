@@ -3,10 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 .body {
   font-family: "Josefin Slab", serif;
   font-size: 1.5rem;
 }
+
 .header {
   display: flex;
   justify-content: space-around;
