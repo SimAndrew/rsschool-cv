@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.body {
+  font-family: "Josefin Slab", serif;
+  font-size: 1.5rem;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+}
+
+.logo {
+  display: flex;
+  flex-direction: "row";
+  justify-content: flex-end;
+}
+
+.firLogImg {
+  border-radius: 50%;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin: 0 auto;
+  width: 38vw;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a {
+  font-family: "Josefin Slab", serif;
+  color: rgb(0, 0, 0);
+  margin-top: 2vw;
+}
+
+a:hover {
+  color: rgb(15, 80, 199);
+}
+
+.margin {
+  margin-bottom: 2vw;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+section {
+  margin-top: 1vw;
+}
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 2vw;
+}
+
+.rs-logo {
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  margin-top: 2vw;
+}
